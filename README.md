@@ -2,7 +2,22 @@
 A small project to learn about Composites patterns.
 
 ## How to use
-Look at `example.py` for an example.
+In `example.py`, the output looks like this:
+```
+-> Workspace
+--> Model
+---> Part
+---> Part
+---> Part
+---> Model
+----> Part
+----> Part
+----> Part
+----> Part
+----> Part
+----> Part
+```
+
 
 ## Contributing
 You can suggest new features or report an issue using Issues in Github.
